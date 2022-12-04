@@ -1,5 +1,2 @@
-# firest_c
+calculator tracks
 
-first few python comand
-
-new commit everyday for 90 days
