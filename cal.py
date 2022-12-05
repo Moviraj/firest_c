@@ -8,12 +8,10 @@ ch = input("enter a choice\n")
 
 def addition(num1 , num2):
 
-    c =(a+b)
+    z =(num1 + num2)
 
-    print(c)
-
+    return z
 
 
 if ch == 1:
-
-    addition(a,b)
+    print("the addition of them number is" addition(a,b))
